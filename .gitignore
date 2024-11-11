@@ -1,1 +1,3 @@
-/code-like-a-pro-in-rust-book
+code-like-a-pro-in-rust-book/
+Cargo.lock
+target/
