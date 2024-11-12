@@ -1,0 +1,10 @@
+[package]
+name = "zlib_wrap"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+libc = { version = "0.2" }
+
+[build-dependencies]
+cc = { version = "1.2" }
