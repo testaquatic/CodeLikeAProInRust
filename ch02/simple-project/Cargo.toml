@@ -1,7 +1,6 @@
 [package]
-name = "zlib_wrap"
+name = "simple-project"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-libc = { version = "0.2" }
