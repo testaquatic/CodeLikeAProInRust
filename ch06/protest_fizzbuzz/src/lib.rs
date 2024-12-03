@@ -30,7 +30,7 @@ impl Iterator for FizzBuzz {
         self.fizz_count += 1;
         if self.fizz_count == 3 {
             self.fizz_count = 0;
-            ret = Some("Fizz".into())
+            ret = Some("Fizz".into());
         }
         self.buzz_count += 1;
         if self.buzz_count == 5 {
