@@ -1,7 +1,0 @@
-[package]
-name = "sleeping_async_hello_world"
-version = "0.1.0"
-edition = "2021"
-
-[dependencies]
-tokio = { version = "1.41", features = ["time", "rt-multi-thread", "macros"] }

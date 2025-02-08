@@ -1,9 +1,0 @@
-[package]
-name = "protest_fizzbuzz"
-version = "0.1.0"
-edition = "2021"
-
-[dependencies]
-
-[dev-dependencies]
-proptest = { version = "1.5" }

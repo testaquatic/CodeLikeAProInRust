@@ -1,9 +1,0 @@
-[package]
-name = "quicksort"
-version = "0.1.0"
-edition = "2021"
-
-[dev-dependencies]
-anyhow = { version = "1" }
-assert_cmd = { version = "2.0" }
-proptest = { version = "1.5" }

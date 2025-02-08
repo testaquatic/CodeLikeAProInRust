@@ -1,9 +1,0 @@
-[package]
-name = "custom_allocator"
-version = "0.1.0"
-edition = "2021"
-
-[dependencies]
-lazy_static = { version = "1.5" }
-libc = { version = "0.2" }
-winapi = { version = "0.3" }

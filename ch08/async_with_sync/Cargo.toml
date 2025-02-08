@@ -1,7 +1,0 @@
-[package]
-name = "async_with_sync"
-version = "0.1.0"
-edition = "2021"
-
-[dependencies]
-tokio = { version = "1.42", features = ["rt-multi-thread", "fs", "io-util", "macros"] }
