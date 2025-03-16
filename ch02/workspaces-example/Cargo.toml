@@ -1,0 +1,10 @@
+[package]
+name = "workspaces-example"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+subproject = { path = "./subproject" }
+
+[workspace]
+members = ["subproject"]
