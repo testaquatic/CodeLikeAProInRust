@@ -1,0 +1,8 @@
+[package]
+name = "test_add"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+num-traits = "0.2.19"
+proptest = "1.6.0"
